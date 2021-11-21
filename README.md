@@ -1,4 +1,4 @@
-# planetopedia
+# Planetopedia
 
 Flutter app for learning about planets.
 Released March 27, 2020
