@@ -5,6 +5,4 @@
 Flutter app for learning about planets.
 Released March 27, 2020
 
-Available on iOS, iPadOS, and macOS.
-
-https://apps.apple.com/us/app/planetopedia/id1501920966
+[Available on iOS, iPadOS, and macOS.](https://apps.apple.com/us/app/planetopedia/id1501920966)
